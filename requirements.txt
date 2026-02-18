@@ -1,0 +1,7 @@
+streamlit
+newspaper3k
+lxml_html_clean
+textblob
+wordcloud
+matplotlib
+nltk
