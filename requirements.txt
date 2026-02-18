@@ -1,6 +1,0 @@
-streamlit
-newspaper3k
-textblob
-wordcloud
-matplotlib
-nltk
